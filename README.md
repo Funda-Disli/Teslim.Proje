@@ -11,4 +11,7 @@ Test çalıştırıcısını etkileşimli izleme modunda başlatır.\
 Üretim için uygulamayı "build" klasöründe oluşturur.
 React'ı üretim modunda doğru şekilde paketler ve yapıyı en iyi performans için optimize eder
 
-Vercel:teslim-proje-mlqguowm1-fundadislis-projects.vercel.app
+Vercel:
+https://vercel.com/fundadislis-projects
+teslim-proje-mlqguowm1-fundadislis-projects.vercel.app
+https://teslim-proje.vercel.app/
